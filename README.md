@@ -32,8 +32,7 @@ Currently building a strong foundation in programming logic, Python and web deve
 ## Current Learning
 
 - Python and programming logic
-- Object-oriented programming — next goal
-- Web development fundamentals
+- Web development (CSS and HTML)
 - Software engineering fundamentals
 
 <!-- PROJECTS -->
