@@ -2,53 +2,49 @@
 <!-- HEADER -->
 
 <div align="center">
-
-# Rebecanixx
-
-**Software Engineering Student**
-
-![Python](https://img.shields.io/badge/Python-B91C1C?style=for-the-badge&logo=python&logoColor=white)
-
+  <img src="./header.svg" width="100%" alt="Rebecanixx - Software Engineering Student"/>
 </div>
 
----
+<br>
 
 <!-- ABOUT ME -->
 
 ## About me
 
-Software Engineering student based in Brazil, interested in software development and technology.
+Software Engineering student from Brazil with an interest in software development, technology and problem-solving.
 
-Currently building a strong foundation in programming logic, Python and web development through practical projects.
+Focused on building practical projects and developing a solid foundation in programming.
+
+<br>
 
 <!-- TECHNOLOGIES -->
 
-## Technologies & Tools
+## Languages & Technologies
 
-<img src="https://skillicons.dev/icons?i=python,html,css,vscode,github&theme=dark" alt="Technologies and tools"/>
+<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" alt="Programming languages"/>
 
-<!-- LEARNING -->
+### Development tools
 
-## Current Learning
+<img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" alt="Development tools"/>
 
-- Python and programming logic
-- Web development (CSS and HTML)
-- Software engineering fundamentals
+<br>
 
 <!-- PROJECTS -->
 
 ## Projects
 
-Personal and academic projects documenting my development as a software engineering student.
+A collection of personal and academic projects focused on software development and practical problem-solving.
 
 [Explore my repositories](https://github.com/Rebecanixx?tab=repositories)
+
+<br>
 
 <!-- FOOTER -->
 
 ---
 
 <div align="center">
-  <samp>Learn. Build. Improve.</samp>
-  <br><br>
   <samp>每天进步一点点。</samp>
+  <br>
+  <sub>Learn. Build. Improve.</sub>
 </div>
