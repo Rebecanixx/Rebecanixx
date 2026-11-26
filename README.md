@@ -7,7 +7,7 @@
 
 Software Engineering Student
 
-![Current Focus](https://img.shields.io/badge/Current_Focus-Python-B91C1C?style=flat-square&labelColor=27272A)
+<img src="https://img.shields.io/badge/Current%20Focus-Python-B91C1C?style=for-the-badge" alt="Current Focus: Python">
 
 </div>
 
