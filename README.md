@@ -44,7 +44,11 @@ A collection of personal and academic projects focused on software development a
 ---
 
 <div align="center">
-  <samp>每天进步一点点。</samp>
+
+  <strong>每天进步一点点。</strong>
+
   <br>
-  <sub>Learn. Build. Improve.</sub>
+
+  Learn. Build. Improve.
+
 </div>
