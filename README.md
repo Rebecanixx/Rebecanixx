@@ -49,11 +49,7 @@ Personal and academic projects documenting my development as a software engineer
 ---
 
 <div align="center">
-
   <samp>Learn. Build. Improve.</samp>
-
   <br>
-
   <samp>每天进步一点点。</samp>
-
 </div>
