@@ -11,10 +11,11 @@
 
 ## About me
 
-Software Engineering student from Brazil with an interest in software development, technology and problem-solving.
+Software Engineering student from Brazil with an interest in software development, data analysis and problem-solving.
 
 Focused on building practical projects and developing a solid foundation in programming.
 
+Beyond technology, i enjoy learning languages and exploring different cultures. I'm currently studying chinese and english.
 <br>
 
 <!-- TECHNOLOGIES -->
