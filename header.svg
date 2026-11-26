@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+  <title id="title">Rebecanixx — Software Engineering Student</title>
+  <desc id="desc">Minimalist dark header with deep red accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101216"/>
+      <stop offset="1" stop-color="#201317"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#ef4444"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1000" height="190" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="190" fill="url(#bg)"/>
+    <path d="M 780 -30 L 1000 105 M 830 -35 L 1030 88 M 890 -40 L 1050 58" stroke="#ef4444" stroke-width="1" opacity=".14" fill="none"/>
+    <rect x="0" y="0" width="1000" height="4" fill="url(#red)"/>
+    <rect x="52" y="45" width="4" height="97" rx="2" fill="#dc2626"/>
+    <text x="76" y="96" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Rebecanixx</text>
+    <text x="78" y="130" fill="#fca5a5" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" letter-spacing="2">SOFTWARE ENGINEERING STUDENT</text>
+    <g fill="none" stroke="#ef4444" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".5">
+      <path d="M874 76l-16 14 16 14M920 76l16 14-16 14M907 69l-20 42"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="999" height="189" rx="11.5" fill="none" stroke="#6b2529"/>
+</svg>
