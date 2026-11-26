@@ -1,71 +1,59 @@
 
-<!-- APRESENTAÇÃO -->
+<!-- HEADER -->
 
 <div align="center">
 
-  <h1>Rebecanixx</h1>
+# Rebecanixx
 
-  <code>程序员 · Software Engineering Student</code>
+Software Engineering Student
 
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=C084FC&size=22&width=600&center=true&pause=1000&lines=Software+Engineering+Student;Currently+learning+Python;Learning+Mandarin+Chinese;Always+learning+something+new" alt="Typing SVG">
+![Current Focus](https://img.shields.io/badge/Current_Focus-Python-B91C1C?style=flat-square&labelColor=27272A)
 
 </div>
 
-<br>
+---
 
-<!-- SOBRE MIM -->
+<!-- ABOUT ME -->
 
 ## About me
 
-- Software Engineering student from Brazil.
-- Currently learning Python.
-- Interested in software development and technology.
-- Learning Mandarin Chinese.
+Software Engineering student based in Brazil, interested in software development and technology.
 
-<br>
+Currently building a strong foundation in programming logic, Python and web development through practical projects.
 
-<!-- TECNOLOGIAS -->
+<!-- TECHNOLOGIES -->
 
 ## Technologies & Tools
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,vscode,github&theme=dark" alt="Technologies and tools"/>
 
-  <img src="https://skillicons.dev/icons?i=python,html,css,vscode,github&theme=dark" alt="Technologies">
+<!-- LEARNING -->
 
-</div>
+## Current Learning
 
-<br>
+- Python and programming logic
+- Object-oriented programming — next goal
+- Web development fundamentals
+- Software engineering fundamentals
 
-<!-- ESTATÍSTICAS -->
+<!-- PROJECTS -->
 
-## GitHub Activity
+## Projects
 
-<div align="center">
+Personal and academic projects documenting my development as a software engineering student.
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rebecanixx&show_icons=true&theme=midnight-purple&hide_border=true">
+[Explore my repositories](https://github.com/Rebecanixx?tab=repositories)
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebecanixx&layout=compact&theme=midnight-purple&hide_border=true">
-
-</div>
-
-<br>
-
-<!-- RODAPÉ -->
+<!-- FOOTER -->
 
 ---
 
 <div align="center">
 
-  <samp>每天进步一点点。</samp>
+  <samp>Learn. Build. Improve.</samp>
 
   <br>
 
-  <samp>A little progress every day.</samp>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=Rebecanixx&style=flat-square&color=9400D3&label=Profile+Views">
+  <samp>每天进步一点点。</samp>
 
 </div>
