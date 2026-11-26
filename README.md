@@ -5,9 +5,9 @@
 
 # Rebecanixx
 
-Software Engineering Student
+**Software Engineering Student**
 
-<img src="https://img.shields.io/badge/Current%20Focus-Python-B91C1C?style=for-the-badge" alt="Current Focus: Python">
+![Python](https://img.shields.io/badge/Python-B91C1C?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -49,6 +49,6 @@ Personal and academic projects documenting my development as a software engineer
 
 <div align="center">
   <samp>Learn. Build. Improve.</samp>
-  <br>
+  <br><br>
   <samp>每天进步一点点。</samp>
 </div>
